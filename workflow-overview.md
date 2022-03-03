@@ -43,7 +43,7 @@
 - **Read Filtering**: Which tool the workflow uses for [read filtering](https://compgenomr.github.io/book/filtering-and-trimming-reads.html).
 - **Contamination Removal**: Which tool is used for contamination removal (e.g. for reads originating from a humans genome).
 - **Primer Trimming**: Which tool the workflow uses for amplicon primer trimming.
-- **De Novo Assembly**: Which tool the workflow uses for de novo assembly.
+- **De Novo Assembly**: Which tool the workflow uses for *de novo* assembly.
 - **Scaffolding**: Which tool the workflow uses for scaffolding.
 - **Consensus / Reference Assembly**: Which tool the workflow uses for consensus assembly.
 - **Variant Calling / Annotation**: Which tool the workflow uses for variant calling and/or annotation.
