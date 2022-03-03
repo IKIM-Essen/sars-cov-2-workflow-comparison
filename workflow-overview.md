@@ -37,7 +37,7 @@
 - **Source**: Link to the source code.
 - **SARS-CoV-2 Exclusive**: If the workflow only processes SARS-CoV-2 samples.
 - **Framework / Library**: Which framework or library is used for the implementation of the workflow.
-- **Seq. Technology**: Which sequcencing technology the workflow can process.
+- **Seq. Technology**: Which sequcencing technology/technologies can be processed with the workflow.
 - **Can Process Shotgun Data**: If the workflow can process [shotgun data](https://en.wikipedia.org/wiki/Shotgun_sequencing).
 - **Can Process Amplicon Data**: If the workflow can process [amplicon data](https://en.wikipedia.org/wiki/Amplicon#Technology).
 - **Read Filtering**: Which tool the workflow uses for [read filtering](https://compgenomr.github.io/book/filtering-and-trimming-reads.html).
