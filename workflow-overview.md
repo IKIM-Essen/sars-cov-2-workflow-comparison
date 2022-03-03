@@ -49,6 +49,6 @@
 - **Variant Calling / Annotation**: Which tool the workflow uses for variant calling and/or annotation.
 - **Lineage Calling**: Which tool the workflow uses for lineage calling (such as B.1.1.7, Delta, etc).
 - **Low Coverage Masking**: Which tool the workflow uses for low covered positions of the reconstructed genome.
-- **Indication of Quality**: Which tool the workflow uses for indication of quality, such as large share of N's or low reference similarity.
+- **Indication of Quality**: If the workflow indicates of quality of the assembled genome, such as large share of N's or low reference similarity.
 - **GUI / Report**: If the workflow outputs an aggregated report. If possible, a link to the report.
 - **Selling Points**: What makes the workflow special.
