@@ -41,7 +41,7 @@
 - **Can Process Shotgun Data**: If the workflow can process [shotgun data](https://en.wikipedia.org/wiki/Shotgun_sequencing).
 - **Can Process Amplicon Data**: If the workflow can process [amplicon data](https://en.wikipedia.org/wiki/Amplicon#Technology).
 - **Read Filtering**: Which tool the workflow uses for [read filtering](https://compgenomr.github.io/book/filtering-and-trimming-reads.html).
-- **Contamination Removal**: Which tool the workflow uses for contamination removal, such as reads that could originate form the human genome.
+- **Contamination Removal**: Which tool is used for contamination removal (e.g. for reads originating from a humans genome).
 - **Primer Trimming**: Which tool the workflow uses for amplicon primer trimming.
 - **De Novo Assembly**: Which tool the workflow uses for de novo assembly.
 - **Scaffolding**: Which tool the workflow uses for scaffolding.
