@@ -33,7 +33,7 @@
 
 - **Workflow**: The name of the workflow.
 - **Status**: If the workflow was published or not. If it was published, it should contain a link to the publication.
-- **Publishing Date**: If the workflow is published, the date of publication.
+- **Publishing Date**: If the workflow was published, the date of publication.
 - **Source**: Link to the source code.
 - **SARS-CoV-2 Exclusive**: If the workflow only processes SARS-CoV-2 samples.
 - **Framework / Library**: Which framework or library is used for the implementation of the workflow.
